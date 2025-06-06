@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Player Stat Explorer
 
 A simple Python project that parses PokerStars hand history text files, computer per-player preflop statistics (VPIP, PFR, 3-bet), 
@@ -22,3 +23,6 @@ All this hand data in stored in a local SQLite database. A Streamlit-based web i
 ```streamlit run app.py```
     - Launches a local web server
     - Searchable dropdown menu for all players in database and displays their stat lines and population comparison
+=======
+
+>>>>>>> a0db7db4123ae2d144e16c51565b444550bdb912
